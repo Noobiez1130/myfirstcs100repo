@@ -12,15 +12,6 @@ background-color: white;
 padding: 50px;
 }
 
-#box {
-    background-color: #5d6aab;
-    width: 100%;
-    padding: 10px;
-    text-color: white;
-    border : 1px;
-    text-align: center;
-}
-
 .photo {
 text-align: center;
 }
@@ -34,6 +25,20 @@ width: 620px;
 margin: 40px auto 0 auto;
 }
 
-#mid {
+.mid p,h1 {
     text-align: center;
+}
+.mid {
+    text-align: left;
+}
+
+.button {
+text-align: center;
+margin-top: 35px;
+}
+.button a {
+background-color: #5b67b3;
+color: white;
+padding: 12px 25px;
+text-decoration: none;
 }
